@@ -6,7 +6,7 @@
 ## 👨‍💻 About Me
 - 🎓 B.Tech in Computer Science (2023–2027)
 - 💻 Passionate about **Full Stack Development and Problem Solving**
-- 🧠 Solved **1600+ DSA problems** across platforms
+- 🧠 Solved **1600+ DSA and CP problems** across platforms
 - 🌱 Currently strengthening **data structures, algorithms, and system design**
 - ⚡ Interested in building **scalable and efficient applications**
 
