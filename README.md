@@ -53,9 +53,9 @@
 
 ## 🏆 Achievements
 - 🥇 Solved **1600+ problems**
-- 💡 LeetCode Rating: **1969**
+- 💡 LeetCode Rating: **2000**
 - 🧠 CodeChef Rating: **1636**
-- ⚡ Codeforces Rating: **1368**
+- ⚡ Codeforces Rating: **1437**
 - 🏅 Rank 15 – CodeRumble 3.0
 
 ---
